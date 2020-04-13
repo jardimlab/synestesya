@@ -1,1 +1,4 @@
 # synestesya
+
+
+Synesthesia is a perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary experiences in a second sensory or cognitive pathway.People who report a lifelong history of such experiences are known as synesthetes. Awareness of synesthetic perceptions varies from person to person.In one common form of synesthesia, known as grapheme–color synesthesia or color–graphemic synesthesia, letters or numbers are perceived as inherently colored. In spatial-sequence, or number form synesthesia, numbers, months of the year, or days of the week elicit precise locations in space (for example, 1980 may be "farther away" than 1990), or may appear as a three-dimensional map (clockwise or counterclockwise).Synesthetic associations can occur in any combination and any number of senses or cognitive pathways.
